@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c370fa4d-c0e2-4553-b356-961df99bb34f" name="Default" comment="This is Adam's text change. Just testing the push and pull systems&#10;Changed &quot;Hello World!&quot; to &quot;Adam's Commit Test!&quot;">
+    <list default="true" id="c370fa4d-c0e2-4553-b356-961df99bb34f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Final_Project_EE408.iws" />
@@ -2216,7 +2216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1479768761418</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="This is Adam's text change. Just testing the push and pull systems&#10;Changed &quot;Hello World!&quot; to &quot;Adam's Commit Test!&quot;">
+      <created>1479769242526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1479769242526</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
