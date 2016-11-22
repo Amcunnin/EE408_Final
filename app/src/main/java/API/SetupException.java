@@ -17,11 +17,11 @@ public class SetupException extends RuntimeException {
 	
 	private ExceptionType cause;
 	
-	public SetupException(SetupException.ExceptionType cause) {
+	public SetupException(ExceptionType cause) {
 		super(cause.name());
 		this.cause = cause;
 	}
-	
-	public SetupException.ExceptionType getExceptionType() { return cause; }
+
+	public ExceptionType getExceptionType() { return cause; }
 
 }
