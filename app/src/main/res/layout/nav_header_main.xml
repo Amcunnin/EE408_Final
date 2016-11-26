@@ -30,6 +30,6 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="What do we want here?" />
+        android:text="Authors: Adam C, Jake C, Tim L, and Victor M." />
 
 </LinearLayout>
